@@ -1,2 +1,2 @@
 ### Hi there 👋
-I am an Aerospace Engineering Student, Software Developer, and a pilot! I develop aircraft for flight simulators professionally. I am a Senior Software Engineer at [RealSimGear Inc](https://realsimgear.com) where we are working on some exciting aircraft and avionics for flight training. You can also check out my work as a Managing Partner at [TorqueSim Aircraft Development](https://torquesim.com). 
+I am an Aerospace Engineer, Software Developer, and a pilot! I am a Senior Software Engineer at [RealSimGear Inc](https://realsimgear.com) where we are working on exciting simulations of aircraft and avionics for flight training. You can also check out my work as a Managing Partner at [TorqueSim Aircraft Development](https://torquesim.com). 
